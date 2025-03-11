@@ -5,7 +5,6 @@ ft_irc is a project developed as part of the 42 curriculum. It implements a basi
 ## Table of Contents
 
 - [Overview](#overview)
-- [Project Structure](#project-structure)
 - [Requirements](#requirements)
 - [Build & Installation](#build--installation)
 - [Usage](#usage)
